@@ -8,7 +8,7 @@
         api_version: v1
         kind: Namespace
         state: present
-        kubeconfig: /root/kubeconfig_myapp-eks-cluster
+        
       
     - name: Deploy nginx app
       kubernetes.core.k8s:
@@ -17,5 +17,4 @@
         api_version: v1
         kind: Namespace
         state: present
-        kubeconfig: /root/kubeconfig_myapp-eks-cluster
         namespace: my-app
