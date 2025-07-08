@@ -129,6 +129,15 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 
     ![image](https://github.com/user-attachments/assets/d5fed899-9638-472b-9cde-1e321f413e7d)
 
+- Deployed Deployment and Service components on the cluster.
+  ![image](https://github.com/user-attachments/assets/38be6213-eac1-47f8-95a1-9171942187cf)
+
+  ![image](https://github.com/user-attachments/assets/9aac128c-1af1-4e9c-a985-524f7956a5bd)
+
+  ![image](https://github.com/user-attachments/assets/6b985f54-71a6-4d73-85e0-34dbe785dc0c)
+
+
+
     
 
   
