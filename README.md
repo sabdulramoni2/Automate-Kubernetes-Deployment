@@ -13,6 +13,7 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 - install terraform on digital ocean server.
 - Created K8s cluster on AWS with terraform.
 - Configure ansible to connect to EKS.
+- Executes the playbook
 - Deployed Deployment and Service components on the cluster.
 - Terraform destroy (IMPORTANT: delete all your components, if you don’t want to get charged for a running cluster!)
 
@@ -111,6 +112,10 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
    ```
        
     ![image](https://github.com/user-attachments/assets/df7e1db7-c82f-4b1c-9ecd-9c9d77902649)
+
+- Executes the playbook
+  ![image](https://github.com/user-attachments/assets/e102a8fb-027b-4919-9d3c-783dbe6aef0d)
+
 
 
 
