@@ -101,7 +101,8 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
    
 4. In your Ansible Inventory (Recommended for a specific host/group). Add this two line
    ```
-       localhost ansible_connection=local ansible_python_interpreter=/root/my_k8s_project/venv/bin/python
+       localhost ansible_connection=local
+       ansible_python_interpreter=/root/my_k8s_project/venv/bin/python
    ```
        
     ![image](https://github.com/user-attachments/assets/df7e1db7-c82f-4b1c-9ecd-9c9d77902649)
