@@ -36,9 +36,9 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 - install terraform on digital ocean server.
 - Ran the following command to install terraform
   ```wget -O - https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
-echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(grep -oP '(?<=UBUNTU_CODENAME=).*' /etc/os-release || lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
-sudo apt update && sudo apt install terraform
-```
+     echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(grep -oP '(?<=UBUNTU_CODENAME=).*' /etc/os-release || lsb_release -cs) main" | sudo tee                                        /etc/apt/sources.list.d/hashicorp.list
+     sudo apt update && sudo apt install terraform
+  ```
 
   ![image](https://github.com/user-attachments/assets/2ae5abd9-731d-4b25-ad73-3e44b8dc583c)
 
