@@ -42,6 +42,13 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 
   ![image](https://github.com/user-attachments/assets/2ae5abd9-731d-4b25-ad73-3e44b8dc583c)
 
+- Create terraform files on droplet server
+  ![image](https://github.com/user-attachments/assets/060503c0-cf51-46c9-9ba4-16c8c8515071)
+
+  ![image](https://github.com/user-attachments/assets/4f44d84a-9f41-4908-9daf-3b1f75b10915)
+
+
+
 - Created K8s cluster on AWS with terraform.
   
   ![image](https://github.com/user-attachments/assets/f584ca33-8475-42d6-a132-bdce55976bb7)
