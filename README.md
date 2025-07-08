@@ -66,6 +66,22 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
      ````
     
     ![image](https://github.com/user-attachments/assets/f9b7ce6b-0450-4a12-9a52-f69de7374075)
+  
+- Install the following dependencies on the host (which is ansible server in our case) that executes this module.
+  python >=3.6
+  kubernetes >=12.0.0
+  PYYAML >=3.11
+  jsonpatch
+
+- Use the folloing command to check
+
+  ```
+      python3 -c "import YAML"
+      python3 -c "import kubernetes"
+      python3 -c "import jsonpatch"
+  ```
+
+  ![image](https://github.com/user-attachments/assets/83ec64ad-52de-4858-aada-beb5a6a2bcc2)
 
 
 
