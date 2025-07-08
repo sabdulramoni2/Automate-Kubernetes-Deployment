@@ -87,5 +87,14 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
   ![image](https://github.com/user-attachments/assets/83ec64ad-52de-4858-aada-beb5a6a2bcc2)
 
 
+- Steps to resolve:
+1.	Ensure you are in your project directory: cd ~/my_k8s_project
+2.	Activate your virtual environment: source venv/bin/activate
+After this command, your prompt must change. It should look something like this:
+(venv) root@ubuntu-s-2vcpu-2gb-nyc1-01:~/my_k8s_project#
+The (venv) prefix is the crucial indicator that you are now operating within the virtual environment.
+
+
+
 
  
