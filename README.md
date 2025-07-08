@@ -116,6 +116,18 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 - Executes the playbook
   ![image](https://github.com/user-attachments/assets/e102a8fb-027b-4919-9d3c-783dbe6aef0d)
 
+- Connecxt to the cluster using this command
+  ```
+      export KUBECONFIG= /root/kubeconfig_myapp-eks-cluster
+  ```
+- Unable to connect to this server, needs to install kubectl on the server
+  ``` curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+      chmod +x kubectl
+      sudo mv kubectl /usr/local/bin/
+  ```
+
+  
+
 
 
 
