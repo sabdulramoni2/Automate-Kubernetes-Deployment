@@ -136,6 +136,21 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 
   ![image](https://github.com/user-attachments/assets/6b985f54-71a6-4d73-85e0-34dbe785dc0c)
 
+- Set env for the kubeconfig file
+
+  ![image](https://github.com/user-attachments/assets/caa07e16-f41b-4b3f-bc8c-78eb9ea49b4a)
+
+  ![image](https://github.com/user-attachments/assets/c9672396-4a77-4d34-a04b-2f4ad840687e)
+
+
+  ![image](https://github.com/user-attachments/assets/3aefbfe6-7d48-4515-a8e0-4c24005e6596)
+
+  ![image](https://github.com/user-attachments/assets/5fc9b8cd-39c2-4919-bcfe-e568adba41cc)
+
+
+
+
+
 
 
     
