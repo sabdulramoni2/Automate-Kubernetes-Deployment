@@ -25,6 +25,12 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 
   ![image](https://github.com/user-attachments/assets/03f071e8-f948-4cf5-92aa-cc725e36c9c8)
 
+  - Configure ansible to connect to EKS.
+     ```
+          aws eks update-kubeconfig --region us-east-2 --name myapp-eks-cluster --kubeconfig /root/kubeconfig_myapp-eks-cluster
+     ````
+    
+
 
 
  
