@@ -32,6 +32,7 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
           aws eks update-kubeconfig --region us-east-2 --name myapp-eks-cluster --kubeconfig /root/kubeconfig_myapp-eks-cluster
      ````
     
+    ![image](https://github.com/user-attachments/assets/f9b7ce6b-0450-4a12-9a52-f69de7374075)
 
 
 
