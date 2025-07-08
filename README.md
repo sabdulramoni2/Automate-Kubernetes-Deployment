@@ -92,9 +92,11 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 2.	Activate your virtual environment:
    ```
       source venv/bin/activate
-  ```
+   ```
 3. After this command, your prompt must change. It should look something like this:
+   ```
     (venv) root@ubuntu-s-2vcpu-2gb-nyc1-01:~/my_k8s_project#
+   ```
     The (venv) prefix is the crucial indicator that you are now operating within the virtual environment.
 
 
