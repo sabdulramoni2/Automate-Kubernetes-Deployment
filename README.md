@@ -125,6 +125,11 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
       chmod +x kubectl
       sudo mv kubectl /usr/local/bin/
   ```
+    ![image](https://github.com/user-attachments/assets/2b6b9dd9-884d-4172-851d-b12a79a30459)
+
+    ![image](https://github.com/user-attachments/assets/d5fed899-9638-472b-9cde-1e321f413e7d)
+
+    
 
   
 
