@@ -9,6 +9,8 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 
 ### **EKS provisioning using Terraform**
 
+- Install ansible on digital oceaan server.
+- install terraform on digital ocean server.
 - Created K8s cluster on AWS with terraform.
 - Configure ansible to connect to EKS.
 - Deployed Deployment and Service components on the cluster.
@@ -16,6 +18,19 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 
 
 ### **Diagrammatic Presentation**
+- Install ansible on digital oceaan server.
+  ![image](https://github.com/user-attachments/assets/10ea02e0-d399-4ac0-8ea5-aebc766b01cf)
+- Connect to server via ssh
+  ![image](https://github.com/user-attachments/assets/16aa9534-9bd4-4619-9d86-6fac0a7166f2)
+- Ran the following command to install ansible
+  ```
+  apt update
+  apt install ansible-core
+  ```
+  
+
+
+- install terraform on digital ocean server.
 - Created K8s cluster on AWS with terraform.
   
   ![image](https://github.com/user-attachments/assets/f584ca33-8475-42d6-a132-bdce55976bb7)
