@@ -86,7 +86,7 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
 
   ![image](https://github.com/user-attachments/assets/83ec64ad-52de-4858-aada-beb5a6a2bcc2)
 
-- Use the following command to insatll the deoendencies
+- Use the following command to insatll the dependencies
   ```
       pip3 install jsonpatch --user
       pip3install pyyaml --user
