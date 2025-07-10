@@ -7,8 +7,6 @@ This project demonstrates the provisoning of EKS cluster using terraform and con
   
 ## **Feature**
 
-### **EKS provisioning using Terraform**
-
 - Install ansible on digital oceaan server.
 - install terraform on digital ocean server.
 - Created K8s cluster on AWS with terraform.
