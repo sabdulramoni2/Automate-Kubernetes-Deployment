@@ -1,7 +1,7 @@
 # **Automate Kubernetes Deployment**
 
 ## **Project Overview**
-This project demonstrates the provisoning of EKS cluster using terraform and confguredAnsible to connect to the cluster. Then deployed Deployment and Service components on the cluster.
+This project demonstrates the provisoning of EKS cluster using terraform and confgured Ansible to connect to the cluster. Then deployed Deployment and Service components on the cluster.
 
 ---
   
